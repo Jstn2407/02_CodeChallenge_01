@@ -10,7 +10,7 @@ Geben Sie die Summe der Zahlen in die Konsole aus:
 */
 
 /*********** Variante 1  ****************/
-
+// zu viele Variablen
 // Deklaration
 let ziffer1, ziffer2;
 let zahl1, zahl2, summe;
